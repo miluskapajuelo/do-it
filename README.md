@@ -4,7 +4,7 @@
 SEMANTIC HTML
 * <article> https://developer.mozilla.org/en-US/docs/Web/HTML/Element/article
 * <aside> https://developer.mozilla.org/en-US/docs/Web/HTML/Element/aside
-* <details> https://developer.mozilla.org/en-US/docs/Web/HTML/Element/details
+* <details..> https://developer.mozilla.org/en-US/docs/Web/HTML/Element/details
 * <figcaption> https://developer.mozilla.org/en-US/docs/Web/HTML/Element/figcaption
 * <figure> https://developer.mozilla.org/en-US/docs/Web/HTML/Element/figure  
 * <footer> https://developer.mozilla.org/en-US/docs/Web/HTML/Element/footer
