@@ -21,3 +21,5 @@ FUNCTIONS / CALLBACK / PROMISES /ARRAY
 * OBJECTS https://lenguajejs.com/javascript/fundamentos/objetos-basicos/
 * FUNCTIONS https://lenguajejs.com/javascript/fundamentos/funciones/
 * CALLBACK, PROMISES, ASYNC https://medium.com/@jmz12/callbacks-promesas-y-async-await-que-alguien-me-explique-514137cb57e2
+* HTTP GET OPTION https://nodejs.org/api/http.html#http_http_get_options_callback
+* DIAGRAMAS https://app.diagrams.net/
