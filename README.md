@@ -21,6 +21,7 @@ FUNCTIONS / CALLBACK / PROMISES /ARRAY
 * OBJECTS https://lenguajejs.com/javascript/fundamentos/objetos-basicos/
 * FUNCTIONS https://lenguajejs.com/javascript/fundamentos/funciones/
 * CALLBACK, PROMISES, ASYNC https://medium.com/@jmz12/callbacks-promesas-y-async-await-que-alguien-me-explique-514137cb57e2
+* CALLBACK https://lenguajejs.com/javascript/asincronia/callbacks/
 * HTTP GET OPTION https://nodejs.org/api/http.html#http_http_get_options_callback
 * DIAGRAMAS https://app.diagrams.net/
 FILE DESCRIPTIONS
@@ -30,3 +31,4 @@ OTHERS
 * NODE ESM https://nodejs.org/api/esm.html
 * EXPORT https://github.com/benmosher/eslint-plugin-import/blob/v2.22.1/docs/rules/prefer-default-export.md
 * BABEL https://www.robinwieruch.de/minimal-node-js-babel-setup#nodejs-with-babel
+* NODE JS https://medium.com/@delgadotrueba/understanding-nodejs-d526e8e5313
