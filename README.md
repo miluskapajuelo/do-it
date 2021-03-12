@@ -29,3 +29,4 @@ FILE DESCRIPTIONS
 OTHERS
 * NODE ESM https://nodejs.org/api/esm.html
 * EXPORT https://github.com/benmosher/eslint-plugin-import/blob/v2.22.1/docs/rules/prefer-default-export.md
+* BABEL https://www.robinwieruch.de/minimal-node-js-babel-setup#nodejs-with-babel
