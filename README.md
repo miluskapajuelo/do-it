@@ -32,3 +32,6 @@ OTHERS
 * EXPORT https://github.com/benmosher/eslint-plugin-import/blob/v2.22.1/docs/rules/prefer-default-export.md
 * BABEL https://www.robinwieruch.de/minimal-node-js-babel-setup#nodejs-with-babel
 * NODE JS https://medium.com/@delgadotrueba/understanding-nodejs-d526e8e5313
+
+ECMA MODULES
+* http://es6-features.org/
